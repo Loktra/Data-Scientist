@@ -2,7 +2,7 @@ You have been given a stack of documents that have already been processed and so
 
 ### Training Data
 
-In order to figure out what category each document should fall under you will base it on the categories of the documents in the ["trainingdata.txt"](/trainingdata.txt) file. This file will be included with your program at runtime and will be named "trainingdata.txt".
+In order to figure out what category each document should fall under you will base it on the categories of the documents in the [trainingdata.txt](/trainingdata.txt) file. This file will be included with your program at runtime and will be named "trainingdata.txt".
 
 The file is formatted as follows:
 
