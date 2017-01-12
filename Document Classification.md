@@ -19,23 +19,18 @@ The first line in the input file will contain T the number of documents. T lines
 For each document output a number between 1-8 which you believe this document should be categorized as.
 
 ### Sample Input
-
+```
 3 
-
 This is a document 
-
 this is another document 
-
 documents are seperated by newlines
-
+```
 ### Sample Output
-
+```
 1 
-
 4 
-
 8
-
+```
 ### Scoring
 
-Your score for this challenge will be 100* (#correctly categorized - #incorrectly categorized)/(T).
+Your score for this problem will be 100* (#correctly categorized - #incorrectly categorized)/(T).

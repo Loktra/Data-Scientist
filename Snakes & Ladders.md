@@ -12,7 +12,7 @@ Markov is travelling in a train and he is bored. He takes out his Snakes and Lad
 
 4. When a player reaches a square which is the base of a ladder, he has to climb up the ladder- (s)he has no choice. The ladder always leads to a "higher" square, which is closer to the top (100).
 
-5. When a player reaches a square which has the mouth of a snake, (s)he will always end up at the square which corresponds to to tail of the snake- (s)he goes down and has no choice.
+5. When a player reaches a square which has the mouth of a snake, (s)he will always end up at the square which corresponds to tail of the snake- (s)he goes down and has no choice.
 
 6. A die roll which would cause the player to land up at a square greater than 100, goes wasted, and the player remains at his original square. Such as a case when the player is at Square Number 99, rolls the die, and ends up with 5.
 
