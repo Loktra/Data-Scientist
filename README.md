@@ -13,7 +13,7 @@ In order to be considered for the Data Engineer position, you must complete the 
 
 ## Task
 
-You must complete atleast two of the following tasks:
+You must complete atleast one of the following tasks:
 
 1. Perform [Document Classification](/Document%20Classification.md).
 2. Solve [Regression lines](/Regression%20lines.md) problem.
