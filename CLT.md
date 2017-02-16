@@ -17,6 +17,6 @@ Your output must be a floating point / decimal number, correct to a scale of 4 d
 
 Your answer should resemble something like:
 
-```0.1234```
+    0.1234
 
 (This is NOT the answer, just a demonstration of the answering format.)
